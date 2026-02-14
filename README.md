@@ -42,12 +42,18 @@ Faça um fork do projeto
 
 1° Crie uma branch para sua feature (git checkout -b feature/AmazingFeature) Explicação: feature é a branch, depois da "/" é o nome da feature.
 
-Outras formas de nome: 
+Outras formas de nome:
+
 feature/nome-da-feature    → novas funcionalidades
+
 bugfix/descricao-do-bug    → correções
+
 hotfix/descricao           → correções urgentes
+
 docs/o-que-foi-alterado    → documentação
+
 refactor/o-que-mudou       → refatoração de código
+
 test/adiciona-testes       → testes
 
 2° Commit suas mudanças (git commit -m 'Add some AmazingFeature')
@@ -55,5 +61,6 @@ test/adiciona-testes       → testes
 3° Push para a branch (git push origin feature/AmazingFeature)
 
 4° Abra um Pull Request:
+
 "Ei, dono do projeto! Fiz umas melhorias no meu fork. Dá uma olhada e, se estiver bom, puxa (pull) meu código para o seu repositório!"
 
